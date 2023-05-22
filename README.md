@@ -29,7 +29,7 @@ Because we can develop this Test Case by sending as much Data as we want to Scen
 # Pretty Report
 <img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20133901.png" alt="">
 <hr>
-<img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/image%20(17).png" alt=""/>
+<img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20134812.png" alt=""/>
 <hr>
 <img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/image%20(19).png" alt=""/>
 <hr>
