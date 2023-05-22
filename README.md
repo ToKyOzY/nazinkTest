@@ -8,7 +8,7 @@
 </h1>
 
 
-In this project, the `Cucumber BDD` Framework was used, and the `POM` (Page Object Model) design model was used in accordance with the `OOP` (Object Oriented Programming) concept in the Cucumber Framework.
+In this project, IntelliJ is used as IDE, Used Maven repo to configure the project, the coding language in which the project is written is Java, the `Cucumber BDD` Framework was used, and the `POM` (Page Object Model) design model was used in accordance with the `OOP` (Object Oriented Programming) concept in the Cucumber Framework.
 * Used `maven` as project configuration tool.
 * In the UI, `Selenium Webdriver` was used.
 <hr>
