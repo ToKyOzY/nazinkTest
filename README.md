@@ -15,6 +15,12 @@ In this project, IntelliJ is used as IDE, Used Maven repo to configure the proje
 <img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20134609.png" alt="">
 <hr>
 
+# Description of Project Structure
+The POM structure you see below was used;
+<hr<>
+<img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20135324.png" alt="">
+<hr>
+
 * Data Driven feature has been added to our Behavior Driven Development Framework by using Scenario Outline in feature files. 
 Because we can develop this Test Case by sending as much Data as we want to Scenario Outline and we will gain a Data-oriented feature.
 
