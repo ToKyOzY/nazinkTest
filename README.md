@@ -41,10 +41,10 @@ Because we can develop this Test Case by sending as much Data as we want to Scen
 # pom.xml
 * Thanks to `Pom`, we can place the library of the codes we actually want to use in the dependencies tag in this file, which contains the information of all our works and codes, and we can keep the updated information constantly. Thanks to this place, we can provide access to all codes.
 
-### pages packages <br/>
+### pages package <br/>
 In this package, there are classes where we locate the web elements that we have tested. We created the PageFactory class, called the driver and used this key. We created our locates with FindBy notation to call our locations.
 
-### utilities packages <br/>
+### utils package <br/>
 This package contains our classes and methods that we constantly need.
 Driver,ConfigReader,ReusableMethods,etc...
 
