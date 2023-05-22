@@ -12,7 +12,7 @@ In this project, the `Cucumber BDD` Framework was used, and the `POM` (Page Obje
 * Used `maven` as project configuration tool.
 * In the UI, `Selenium Webdriver` was used.
 <hr>
-<img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/image%20(20).png" alt="">
+<img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20134609.png" alt="">
 <hr>
 
 * Data Driven feature has been added to our Behavior Driven Development Framework by using Scenario Outline in feature files. 
