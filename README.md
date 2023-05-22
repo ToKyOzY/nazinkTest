@@ -31,7 +31,7 @@ Because we can develop this Test Case by sending as much Data as we want to Scen
 <hr>
 <img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20134812.png" alt=""/>
 <hr>
-<img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20134840.pngg" alt=""/>
+<img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20134840.png" alt=""/>
 <hr>
 
 # Resources
