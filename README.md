@@ -16,8 +16,9 @@ In this project, IntelliJ is used as IDE, Used Maven repo to configure the proje
 <hr>
 
 # Description of Project Structure
-The POM structure you see below was used;
-<hr<>
+* The POM structure you see below was used;
+
+<hr>
 <img src="https://github.com/ToKyOzY/nazinkTest/blob/master/Screenshot%202023-05-22%20135324.png" alt="">
 <hr>
 
